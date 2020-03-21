@@ -1,0 +1,50 @@
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\bin\Debug\Vsichko.exe.config
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form1.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form2.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Properties.Resources.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.csproj.GenerateResource.Cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\bin\Debug\Vsichko.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\bin\Debug\Vsichko.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form3.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form4.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form5.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form6.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form7.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form8.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form9.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form10_1.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form10.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form10_2.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\SCREEEEENSAVER PAPKA\Vsichko\Vsichko\obj\Debug\Vsichko.Form11.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\bin\Debug\Vsichko.exe.config
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.exe
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.pdb
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\bin\Debug\Vsichko.exe
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\bin\Debug\Vsichko.pdb
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form1.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form10_1.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form10_2.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form10.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form11.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form2.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form3.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form4.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form5.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form6.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form7.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form8.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form9.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Properties.Resources.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.csproj.GenerateResource.Cache
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form12.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form13.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form14.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form15.resources
+C:\Users\boysa\Desktop\3ти Курс\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.Form16.resources
+C:\Users\boysa\Desktop\TU\3ти Курс 5ти семестър\TSP\Vsichko\Vsichko\bin\Debug\Vsichko.exe.config
+C:\Users\boysa\Desktop\TU\3ти Курс 5ти семестър\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.exe
+C:\Users\boysa\Desktop\TU\3ти Курс 5ти семестър\TSP\Vsichko\Vsichko\obj\Debug\Vsichko.pdb
